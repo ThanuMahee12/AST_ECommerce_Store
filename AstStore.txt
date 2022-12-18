@@ -1,0 +1,7 @@
+using Technology
+1.Html
+2.Css,Bootstrab
+3.js/Jquery
+4.mysql
+5.php
+6.UML
